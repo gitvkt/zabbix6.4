@@ -1,4 +1,4 @@
-# zabbix6.4
+# Zabbix 6.4 - 2025 - Debian 12
 
 Repositório de instruções para instalação do zabbix 6.4 (2025) no Debian 12
 
